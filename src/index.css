@@ -1,0 +1,9 @@
+.photo {
+  height: 500px;
+}
+.img-card {
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+  background-repeat: no-repeat;
+}

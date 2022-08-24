@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "nombre": "Producto Random 1",
+        "marca": "Random",
+        "precio": "100",
+        "cantidad": "4",
+        "photo": "https://picsum.photos/200/300"
+    },
+    {
+        "id": 2,
+        "nombre": "Producto Random 2",
+        "marca": "Random",
+        "precio": "300",
+        "cantidad": "10",
+        "photo": "https://picsum.photos/200/300"
+
+    },
+    {
+        "id": 3,
+        "nombre": "Producto Random 3",
+        "marca": "Random",
+        "precio": "2000",
+        "cantidad": "10",
+        "photo": "https://picsum.photos/200/300"
+
+    },
+    {
+        "id": 4,
+        "nombre": "Producto Random 4",
+        "marca": "Random",
+        "precio": "100",
+        "cantidad": "4",
+        "photo": "https://picsum.photos/200/300"
+    },
+    {
+        "id": 5,
+        "nombre": "Producto Random 5",
+        "marca": "Random",
+        "precio": "300",
+        "cantidad": "10",
+        "photo": "https://picsum.photos/200/300"
+
+    },
+    {
+        "id": 6,
+        "nombre": "Producto Random 6",
+        "marca": "Random",
+        "precio": "2000",
+        "cantidad": "10",
+        "photo": "https://picsum.photos/200/300"
+
+    }
+    
+]
