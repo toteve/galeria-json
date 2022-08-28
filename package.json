@@ -1,5 +1,4 @@
 {
-  "homepage":"https://toteve.github.io/galeria-json",
   "name": "02-repositorio-ejercicio-componentes-json",
   "version": "0.1.0",
   "private": true,
@@ -44,3 +43,4 @@
     "gh-pages": "^4.0.0"
   }
 }
+
